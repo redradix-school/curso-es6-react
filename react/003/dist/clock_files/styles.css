@@ -1,0 +1,22 @@
+.clock {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 600px;
+    width: 600px;
+}
+.clock-sphere {
+    position: absolute;
+    top: 0;
+    left: 6px;
+}
+.clock-hand {
+    position: absolute;
+    top: 50px;
+    left: 295px;
+    height: 250px;
+    width: 10px;
+    background-color: #ff0000;
+    transform-origin: bottom center;
+}
