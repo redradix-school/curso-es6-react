@@ -4,7 +4,7 @@ export default class ClockSphere extends React.Component {
   render() {
     return (
       <div className="clock-sphere">
-        <img src="/clock-sphere.jpg" />
+        <img src="clock-sphere.jpg" />
       </div>
     )
   }
